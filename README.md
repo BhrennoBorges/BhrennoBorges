@@ -38,3 +38,7 @@ About Languages: I’ve got basic Python skills and I’m currently studying Jav
 <div align="center">
   <img src="https://profile-counter.glitch.me/BhrennoBorges/count.svg?"  />
 </div>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@bborges55861/30-nites-of-code)  
+  ![@bborges55861 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=bborges55861)

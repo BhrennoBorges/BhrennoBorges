@@ -26,19 +26,8 @@ About Languages: I’ve got basic Python skills and I’m currently studying Jav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="mailto:bhrenno.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bhrenno-borges-40428331b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-## ⭐ GitHub Stats
+### ⭐ GitHub Stats
 
 [![card](https://github-readme-stats.vercel.app/api?username=Bhrennoborges&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 

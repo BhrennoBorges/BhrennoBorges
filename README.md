@@ -1,6 +1,6 @@
 ## 🐱‍👤 Hey, I'm Bhrenno Borges!
 
-I'm 18, from Brazil, and I'm diving into Computer Science at CEUB University. I'm super curious about tech, always tinkering with new ideas and trying to learn cool stuff. 
+I'm 19, from Brazil, and I'm diving into Computer Science at CEUB University. I'm super curious about tech, always tinkering with new ideas and trying to learn cool stuff. 
 About Languages: I’ve got basic Python skills and I’m currently studying JavaScript, ReactJS, HTML5, and CSS3. My goal? To keep leveling up and maybe create something game-changing one day.
 
 ---

@@ -2,7 +2,7 @@
 
 Hi! My name is Bhrenno, I’m 19 from Brazil with a passion for technology and an entrepreneurial spirit. Since I was a kid, I’ve been curious and eager to explore the world of IT. At my mother’s company, I started "digging into" computers to understand how they worked, and that curiosity has only grown over time.
 
-I’m currently a Computer Science student (3rd semester) with basic knowledge in Python, C#, .NET, data modeling, and mathematics, as well as web technologies like JavaScript, ReactJS, HTML5, and CSS3. I also have skills in office tools such as Excel and Word. With a strong ability for self-directed learning, I have experience in traffic management, digital marketing, and problem-solving.
+I’m currently a Computer Science student (4rd semester) with basic knowledge in Python, C#, .NET, data modeling, and mathematics, as well as web technologies like JavaScript, ReactJS, HTML5, and CSS3. I also have skills in office tools such as Excel and Word. With a strong ability for self-directed learning, I have experience in traffic management, digital marketing, and problem-solving.
 
 Certifications:
 
